@@ -1,2 +1,2 @@
-# pokemon-go
-Implementation of Pokemon Go in AR studio
+# pokemon-go-demo
+AR Scene with a basic pokemon go type interface
